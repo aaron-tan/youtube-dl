@@ -744,6 +744,7 @@ from .myvi import (
 )
 from .myvideoge import MyVideoGeIE
 from .myvidster import MyVidsterIE
+from .nate import NateIE
 from .nationalgeographic import (
     NationalGeographicVideoIE,
     NationalGeographicTVIE,
